@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 
 import api from "../services/api"
 
-const PAGE_LIMIT = 10
+const PAGE_LIMIT = 5
 
 const statusStyles = {
   pending: "bg-amber-100 text-amber-800",
